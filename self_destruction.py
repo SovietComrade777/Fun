@@ -12,7 +12,7 @@ while True:
     elif S=='Jai Shree Ram':
         print("Jai"+S)
     elif S=="How are you":
-        print("I am Currently : ",l1[B])
+        print("I am Currently : ",l1[a])
     else:
         print(l[B])
     
